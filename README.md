@@ -1,6 +1,8 @@
 # qcm
 Quantile control method (QCM) via Random Forest Use qcm With STATA 18
 
+https://www.youtube.com/watch?v=RfB3fkVlQoU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
